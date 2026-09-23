@@ -1,7 +1,11 @@
 
 ## Hi there 👋
 
-![Profile Banner](./light.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img alt="Hammad Ahmed Profile Banner" src="./light.svg">
+</picture>
 
 <!--
 **Hammad-dev108/Hammad-dev108** is a ✨ _special_ ✨ repository...
