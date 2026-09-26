@@ -28,13 +28,11 @@
 <a href="https://shariq-najam.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://www.zentherix.com">
-  <img src="https://img.shields.io/badge/Zentherix-00C9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="mailto:mschariquen@gmail.com">
+
+<a href="hammadkhanyousafzai121@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/shariq-najam-dev">
+<a href="https://www.linkedin.com/in/hammad-ahmed-developer1">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -314,25 +312,6 @@ Premium software house website focused on modern web and mobile development serv
 </div>
 
 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/shariq-najam-dev">
-<img src="https://img.icons8.com/fluency/96/linkedin.png" width="60"/>
-</a>
-
-<a href="mailto:mschariquen@gmail.com">
-<img src="https://img.icons8.com/fluency/96/gmail.png" width="60"/>
-</a>
-
-<a href="https://shariq-najam.vercel.app">
-<img src="https://img.icons8.com/fluency/96/domain.png" width="60"/>
-</a>
-
-<a href="https://www.zentherix.com">
-<img src="https://img.icons8.com/fluency/96/web.png" width="60"/>
-</a>
-
 </div>
 
 <br>
@@ -347,8 +326,6 @@ Premium software house website focused on modern web and mobile development serv
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f2027,100:00c9ff&height=130&section=footer"/>
 </div>
 <p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding GIF" />
-</p>
 <!--
 **Hammad-dev108/Hammad-dev108** is a ✨ _special_ ✨ repository...
 -->
